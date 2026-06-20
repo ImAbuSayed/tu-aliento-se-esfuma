@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-se-esfuma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu aliento se esfuma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-se-esfuma/) |
+| **Get License** | [Get a Licensing Quote for Tu aliento se esfuma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-se-esfuma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento se esfuma en la noche, nena
+> Y tu silueta me pone en cadena
+> Un destello de luna en tu piel morena
+> Esta noche tú y yo quemamos la arena
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
